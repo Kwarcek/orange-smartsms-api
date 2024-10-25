@@ -1,5 +1,5 @@
 {
-  "name": "kwarcek/smart-sms-api",
+  "name": "kwarcek/orange-smartsms-api",
   "description": "A PHP API client for Orange SmartSMS service.",
   "type": "library",
   "version": "1.0.0",
